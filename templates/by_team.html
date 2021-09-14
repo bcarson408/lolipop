@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<table class='table'>
+  <thead>
+    <tr>
+      {% for p in headers%}
+        <th>{{p}}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+
+{% for key,value in k.items() %}
+  <tr>
+    <td>{{key}}</td>
+    <td>{{value}}</td>
+  </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+{% endblock %}

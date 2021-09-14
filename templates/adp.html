@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<table class="container table table-striped table-hover center">
+<thead>
+  {% for columns in headers %}
+  <th>
+    {{columns}}
+  </th>
+
+
+  {% endfor %}
+  <th>
+    2017
+
+  </th>
+</thead>
+<tbody>
+  {% for player in data %}
+  <tr>
+    <td>{{player['Player']}}</td>
+    <td>{{player['Team']}}</td>
+    <td>{{player['Bye']}}</td>
+    <td>{{player['POS']}}</td>
+      <td></td>
+        <td></td>
+          <td></td>
+            <td></td>
+              <td></td>
+    <td><a href= {{url_for('stat_year',player = player['Player'])}} </a>Stats</td>
+  </tr>
+  {% endfor %}
+</tbody>
+</table>
+{% endblock %}

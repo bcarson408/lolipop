@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>{{stats["Player"]}}</h1>
+<hr>
+<table class="container table table-striped table-hover center">
+  <thead>
+    <tr>
+      <th>year</th>
+      {% for col in columns %}
+        <th>{{col}}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    <tr class='center'>
+      <td>2017</td>
+    {% for x in data1 %}
+        <td> {{data1[x]}}</td>
+    {% endfor %}
+    </tr>
+    <tr>
+      <td>2018</td>
+      {% for x in data2 %}
+
+          <td> {{data2[x]}}</td>
+      {% endfor %}
+    </tr>
+    <tr>
+      <td>2019</td>
+      {% for x in data3 %}
+
+          <td> {{data3[x]}}</td>
+      {% endfor %}
+    </tr>
+
+
+  </tbody>
+</table>
+{% endblock %}

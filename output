@@ -1,0 +1,236 @@
+2018
+{'Rank': "'1", 'Player': 'Patrick Mahomes ', 'Team': 'KC', 'PASSING_CMP': '383', 'PASSING_ATT': '580', 'PASSING_PCT': '66.0', 'PASSING_YDS': '5097', 'PASSING_Y/A': '8.8', 'PASSING_TD': '50', 'PASSING_INT': '12', 'PASSING_SACKS': '26', 'RUSHING_ATT': '60', 'RUSHING_YDS': '272', 'RUSHING_TD': '2', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '417.0', ',MISC_FPTS/G': '26.1', 'MISC_OWN': "100.0%'"}
+
+2019
+{'Rank': "'8", 'Player': 'Patrick Mahomes ', 'Team': 'KC', 'PASSING_CMP': '319', 'PASSING_ATT': '484', 'PASSING_PCT': '65.9', 'PASSING_YDS': '4031', 'PASSING_Y/A': '8.3', 'PASSING_TD': '26', 'PASSING_INT': '5', 'PASSING_SACKS': '17', 'RUSHING_ATT': '43', 'RUSHING_YDS': '218', 'RUSHING_TD': '2', 'MISC_FL': '2', 'MISC_G': '14', 'MISC_FPTS': '291.9', ',MISC_FPTS/G': '20.9', 'MISC_OWN': "100.0%'"}
+
+2018
+{'Rank': "'21", 'Player': 'Josh Allen ', 'Team': 'BUF', 'PASSING_CMP': '169', 'PASSING_ATT': '320', 'PASSING_PCT': '52.8', 'PASSING_YDS': '2074', 'PASSING_Y/A': '6.5', 'PASSING_TD': '10', 'PASSING_INT': '12', 'PASSING_SACKS': '28', 'RUSHING_ATT': '89', 'RUSHING_YDS': '631', 'RUSHING_TD': '8', 'MISC_FL': '2', 'MISC_G': '12', 'MISC_FPTS': '208.1', ',MISC_FPTS/G': '17.3', 'MISC_OWN': "94.9%'"}
+
+2019
+{'Rank': "'6", 'Player': 'Josh Allen ', 'Team': 'BUF', 'PASSING_CMP': '271', 'PASSING_ATT': '461', 'PASSING_PCT': '58.8', 'PASSING_YDS': '3089', 'PASSING_Y/A': '6.7', 'PASSING_TD': '20', 'PASSING_INT': '9', 'PASSING_SACKS': '38', 'RUSHING_ATT': '109', 'RUSHING_YDS': '510', 'RUSHING_TD': '9', 'MISC_FL': '4', 'MISC_G': '16', 'MISC_FPTS': '297.5', ',MISC_FPTS/G': '18.6', 'MISC_OWN': "94.9%'"}
+
+2018
+{'Rank': "'131", 'Player': 'Kyler Murray ', 'Team': 'ARI', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "98.9%'"}
+
+2019
+{'Rank': "'7", 'Player': 'Kyler Murray ', 'Team': 'ARI', 'PASSING_CMP': '349', 'PASSING_ATT': '542', 'PASSING_PCT': '64.4', 'PASSING_YDS': '3722', 'PASSING_Y/A': '6.9', 'PASSING_TD': '20', 'PASSING_INT': '12', 'PASSING_SACKS': '48', 'RUSHING_ATT': '93', 'RUSHING_YDS': '544', 'RUSHING_TD': '4', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '297.3', ',MISC_FPTS/G': '18.6', 'MISC_OWN': "98.9%'"}
+
+2018
+{'Rank': "'29", 'Player': 'Lamar Jackson ', 'Team': 'BAL', 'PASSING_CMP': '99', 'PASSING_ATT': '170', 'PASSING_PCT': '58.2', 'PASSING_YDS': '1201', 'PASSING_Y/A': '7.1', 'PASSING_TD': '6', 'PASSING_INT': '3', 'PASSING_SACKS': '16', 'RUSHING_ATT': '147', 'RUSHING_YDS': '697', 'RUSHING_TD': '5', 'MISC_FL': '4', 'MISC_G': '16', 'MISC_FPTS': '157.8', ',MISC_FPTS/G': '9.9', 'MISC_OWN': "99.9%'"}
+
+2019
+{'Rank': "'1", 'Player': 'Lamar Jackson ', 'Team': 'BAL', 'PASSING_CMP': '265', 'PASSING_ATT': '401', 'PASSING_PCT': '66.1', 'PASSING_YDS': '3127', 'PASSING_Y/A': '7.8', 'PASSING_TD': '36', 'PASSING_INT': '6', 'PASSING_SACKS': '23', 'RUSHING_ATT': '176', 'RUSHING_YDS': '1206', 'RUSHING_TD': '7', 'MISC_FL': '2', 'MISC_G': '15', 'MISC_FPTS': '421.7', ',MISC_FPTS/G': '28.1', 'MISC_OWN': "99.9%'"}
+
+2018
+{'Rank': "'10", 'Player': 'Dak Prescott ', 'Team': 'DAL', 'PASSING_CMP': '356', 'PASSING_ATT': '526', 'PASSING_PCT': '67.7', 'PASSING_YDS': '3884', 'PASSING_Y/A': '7.4', 'PASSING_TD': '22', 'PASSING_INT': '8', 'PASSING_SACKS': '56', 'RUSHING_ATT': '75', 'RUSHING_YDS': '305', 'RUSHING_TD': '6', 'MISC_FL': '6', 'MISC_G': '16', 'MISC_FPTS': '285.7', ',MISC_FPTS/G': '17.9', 'MISC_OWN': "98.1%'"}
+
+2019
+{'Rank': "'2", 'Player': 'Dak Prescott ', 'Team': 'DAL', 'PASSING_CMP': '388', 'PASSING_ATT': '596', 'PASSING_PCT': '65.1', 'PASSING_YDS': '4902', 'PASSING_Y/A': '8.2', 'PASSING_TD': '30', 'PASSING_INT': '11', 'PASSING_SACKS': '23', 'RUSHING_ATT': '52', 'RUSHING_YDS': '277', 'RUSHING_TD': '3', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '348.9', ',MISC_FPTS/G': '21.8', 'MISC_OWN': "98.1%'"}
+
+2018
+{'Rank': "'129", 'Player': 'Justin Herbert ', 'Team': 'LAC', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "7.2%'"}
+
+2019
+{'Rank': "'116", 'Player': 'Justin Herbert ', 'Team': 'LAC', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "7.2%'"}
+
+2018
+{'Rank': "'9", 'Player': 'Russell Wilson ', 'Team': 'SEA', 'PASSING_CMP': '280', 'PASSING_ATT': '427', 'PASSING_PCT': '65.6', 'PASSING_YDS': '3448', 'PASSING_Y/A': '8.1', 'PASSING_TD': '35', 'PASSING_INT': '7', 'PASSING_SACKS': '51', 'RUSHING_ATT': '67', 'RUSHING_YDS': '376', 'RUSHING_TD': '0', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '299.4', ',MISC_FPTS/G': '18.7', 'MISC_OWN': "99.3%'"}
+
+2019
+{'Rank': "'4", 'Player': 'Russell Wilson ', 'Team': 'SEA', 'PASSING_CMP': '341', 'PASSING_ATT': '516', 'PASSING_PCT': '66.1', 'PASSING_YDS': '4110', 'PASSING_Y/A': '8.0', 'PASSING_TD': '31', 'PASSING_INT': '5', 'PASSING_SACKS': '48', 'RUSHING_ATT': '75', 'RUSHING_YDS': '342', 'RUSHING_TD': '3', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '333.5', ',MISC_FPTS/G': '20.8', 'MISC_OWN': "99.3%'"}
+
+2018
+{'Rank': "'6", 'Player': 'Aaron Rodgers ', 'Team': 'GB', 'PASSING_CMP': '372', 'PASSING_ATT': '597', 'PASSING_PCT': '62.3', 'PASSING_YDS': '4442', 'PASSING_Y/A': '7.4', 'PASSING_TD': '25', 'PASSING_INT': '2', 'PASSING_SACKS': '49', 'RUSHING_ATT': '43', 'RUSHING_YDS': '269', 'RUSHING_TD': '2', 'MISC_FL': '3', 'MISC_G': '16', 'MISC_FPTS': '312.5', ',MISC_FPTS/G': '19.5', 'MISC_OWN': "92.7%'"}
+
+2019
+{'Rank': "'10", 'Player': 'Aaron Rodgers ', 'Team': 'GB', 'PASSING_CMP': '353', 'PASSING_ATT': '569', 'PASSING_PCT': '62.0', 'PASSING_YDS': '4002', 'PASSING_Y/A': '7.0', 'PASSING_TD': '26', 'PASSING_INT': '4', 'PASSING_SACKS': '36', 'RUSHING_ATT': '46', 'RUSHING_YDS': '183', 'RUSHING_TD': '1', 'MISC_FL': '4', 'MISC_G': '16', 'MISC_FPTS': '282.3', ',MISC_FPTS/G': '17.6', 'MISC_OWN': "92.7%'"}
+
+2018
+{'Rank': "'14", 'Player': 'Tom Brady ', 'Team': 'TB', 'PASSING_CMP': '375', 'PASSING_ATT': '570', 'PASSING_PCT': '65.8', 'PASSING_YDS': '4355', 'PASSING_Y/A': '7.6', 'PASSING_TD': '29', 'PASSING_INT': '11', 'PASSING_SACKS': '21', 'RUSHING_ATT': '23', 'RUSHING_YDS': '35', 'RUSHING_TD': '2', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '281.4', ',MISC_FPTS/G': '17.6', 'MISC_OWN': "96.0%'"}
+
+2019
+{'Rank': "'12", 'Player': 'Tom Brady ', 'Team': 'TB', 'PASSING_CMP': '373', 'PASSING_ATT': '613', 'PASSING_PCT': '60.8', 'PASSING_YDS': '4057', 'PASSING_Y/A': '6.6', 'PASSING_TD': '24', 'PASSING_INT': '8', 'PASSING_SACKS': '27', 'RUSHING_ATT': '26', 'RUSHING_YDS': '34', 'RUSHING_TD': '3', 'MISC_FL': '1', 'MISC_G': '16', 'MISC_FPTS': '271.6', ',MISC_FPTS/G': '17.0', 'MISC_OWN': "96.0%'"}
+
+2018
+{'Rank': "'20", 'Player': 'Matthew Stafford ', 'Team': 'DET', 'PASSING_CMP': '367', 'PASSING_ATT': '555', 'PASSING_PCT': '66.1', 'PASSING_YDS': '3777', 'PASSING_Y/A': '6.8', 'PASSING_TD': '21', 'PASSING_INT': '11', 'PASSING_SACKS': '40', 'RUSHING_ATT': '25', 'RUSHING_YDS': '71', 'RUSHING_TD': '0', 'MISC_FL': '4', 'MISC_G': '16', 'MISC_FPTS': '212.1', ',MISC_FPTS/G': '13.3', 'MISC_OWN': "76.8%'"}
+
+2019
+{'Rank': "'29", 'Player': 'Matthew Stafford ', 'Team': 'DET', 'PASSING_CMP': '187', 'PASSING_ATT': '291', 'PASSING_PCT': '64.3', 'PASSING_YDS': '2499', 'PASSING_Y/A': '8.6', 'PASSING_TD': '19', 'PASSING_INT': '5', 'PASSING_SACKS': '18', 'RUSHING_ATT': '20', 'RUSHING_YDS': '66', 'RUSHING_TD': '0', 'MISC_FL': '3', 'MISC_G': '8', 'MISC_FPTS': '171.5', ',MISC_FPTS/G': '21.4', 'MISC_OWN': "76.8%'"}
+
+2018
+{'Rank': "'30", 'Player': 'Ryan Tannehill ', 'Team': 'TEN', 'PASSING_CMP': '176', 'PASSING_ATT': '274', 'PASSING_PCT': '64.2', 'PASSING_YDS': '1979', 'PASSING_Y/A': '7.2', 'PASSING_TD': '17', 'PASSING_INT': '9', 'PASSING_SACKS': '35', 'RUSHING_ATT': '32', 'RUSHING_YDS': '145', 'RUSHING_TD': '0', 'MISC_FL': '4', 'MISC_G': '11', 'MISC_FPTS': '143.0', ',MISC_FPTS/G': '13.0', 'MISC_OWN': "64.6%'"}
+
+2019
+{'Rank': "'21", 'Player': 'Ryan Tannehill ', 'Team': 'TEN', 'PASSING_CMP': '201', 'PASSING_ATT': '286', 'PASSING_PCT': '70.3', 'PASSING_YDS': '2742', 'PASSING_Y/A': '9.6', 'PASSING_TD': '22', 'PASSING_INT': '6', 'PASSING_SACKS': '31', 'RUSHING_ATT': '43', 'RUSHING_YDS': '185', 'RUSHING_TD': '4', 'MISC_FL': '3', 'MISC_G': '12', 'MISC_FPTS': '230.2', ',MISC_FPTS/G': '19.2', 'MISC_OWN': "64.6%'"}
+
+2018
+{'Rank': "'116", 'Player': 'Jalen Hurts ', 'Team': 'PHI', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "3.9%'"}
+
+2019
+{'Rank': "'86", 'Player': 'Jalen Hurts ', 'Team': 'PHI', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "3.9%'"}
+
+2018
+{'Rank': "'121", 'Player': 'Joe Burrow ', 'Team': 'CIN', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "62.0%'"}
+
+2019
+{'Rank': "'93", 'Player': 'Joe Burrow ', 'Team': 'CIN', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "62.0%'"}
+
+2018
+{'Rank': "'2", 'Player': 'Matt Ryan ', 'Team': 'ATL', 'PASSING_CMP': '422', 'PASSING_ATT': '608', 'PASSING_PCT': '69.4', 'PASSING_YDS': '4924', 'PASSING_Y/A': '8.1', 'PASSING_TD': '35', 'PASSING_INT': '7', 'PASSING_SACKS': '42', 'RUSHING_ATT': '33', 'RUSHING_YDS': '125', 'RUSHING_TD': '3', 'MISC_FL': '5', 'MISC_G': '16', 'MISC_FPTS': '355.0', ',MISC_FPTS/G': '22.2', 'MISC_OWN': "93.6%'"}
+
+2019
+{'Rank': "'11", 'Player': 'Matt Ryan ', 'Team': 'ATL', 'PASSING_CMP': '408', 'PASSING_ATT': '616', 'PASSING_PCT': '66.2', 'PASSING_YDS': '4466', 'PASSING_Y/A': '7.3', 'PASSING_TD': '26', 'PASSING_INT': '14', 'PASSING_SACKS': '48', 'RUSHING_ATT': '34', 'RUSHING_YDS': '147', 'RUSHING_TD': '1', 'MISC_FL': '5', 'MISC_G': '15', 'MISC_FPTS': '281.4', ',MISC_FPTS/G': '18.8', 'MISC_OWN': "93.6%'"}
+
+2018
+{'Rank': "'16", 'Player': 'Baker Mayfield ', 'Team': 'CLE', 'PASSING_CMP': '310', 'PASSING_ATT': '486', 'PASSING_PCT': '63.8', 'PASSING_YDS': '3725', 'PASSING_Y/A': '7.7', 'PASSING_TD': '27', 'PASSING_INT': '14', 'PASSING_SACKS': '25', 'RUSHING_ATT': '39', 'RUSHING_YDS': '131', 'RUSHING_TD': '0', 'MISC_FL': '3', 'MISC_G': '14', 'MISC_FPTS': '240.0', ',MISC_FPTS/G': '17.1', 'MISC_OWN': "57.1%'"}
+
+2019
+{'Rank': "'19", 'Player': 'Baker Mayfield ', 'Team': 'CLE', 'PASSING_CMP': '317', 'PASSING_ATT': '534', 'PASSING_PCT': '59.4', 'PASSING_YDS': '3827', 'PASSING_Y/A': '7.2', 'PASSING_TD': '22', 'PASSING_INT': '21', 'PASSING_SACKS': '40', 'RUSHING_ATT': '28', 'RUSHING_YDS': '141', 'RUSHING_TD': '3', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '250.3', ',MISC_FPTS/G': '15.6', 'MISC_OWN': "57.1%'"}
+
+2018
+{'Rank': "'12", 'Player': 'Kirk Cousins ', 'Team': 'MIN', 'PASSING_CMP': '425', 'PASSING_ATT': '606', 'PASSING_PCT': '70.1', 'PASSING_YDS': '4298', 'PASSING_Y/A': '7.1', 'PASSING_TD': '30', 'PASSING_INT': '10', 'PASSING_SACKS': '40', 'RUSHING_ATT': '44', 'RUSHING_YDS': '123', 'RUSHING_TD': '1', 'MISC_FL': '7', 'MISC_G': '16', 'MISC_FPTS': '283.1', ',MISC_FPTS/G': '17.7', 'MISC_OWN': "46.4%'"}
+
+2019
+{'Rank': "'18", 'Player': 'Kirk Cousins ', 'Team': 'MIN', 'PASSING_CMP': '307', 'PASSING_ATT': '444', 'PASSING_PCT': '69.1', 'PASSING_YDS': '3603', 'PASSING_Y/A': '8.1', 'PASSING_TD': '26', 'PASSING_INT': '6', 'PASSING_SACKS': '28', 'RUSHING_ATT': '31', 'RUSHING_YDS': '63', 'RUSHING_TD': '1', 'MISC_FL': '3', 'MISC_G': '15', 'MISC_FPTS': '250.4', ',MISC_FPTS/G': '16.7', 'MISC_OWN': "46.4%'"}
+
+2018
+{'Rank': "'4", 'Player': 'Deshaun Watson ', 'Team': 'HOU', 'PASSING_CMP': '345', 'PASSING_ATT': '505', 'PASSING_PCT': '68.3', 'PASSING_YDS': '4165', 'PASSING_Y/A': '8.2', 'PASSING_TD': '26', 'PASSING_INT': '9', 'PASSING_SACKS': '62', 'RUSHING_ATT': '99', 'RUSHING_YDS': '551', 'RUSHING_TD': '5', 'MISC_FL': '3', 'MISC_G': '16', 'MISC_FPTS': '331.9', ',MISC_FPTS/G': '20.7', 'MISC_OWN': "99.3%'"}
+
+2019
+{'Rank': "'5", 'Player': 'Deshaun Watson ', 'Team': 'HOU', 'PASSING_CMP': '333', 'PASSING_ATT': '495', 'PASSING_PCT': '67.3', 'PASSING_YDS': '3852', 'PASSING_Y/A': '7.8', 'PASSING_TD': '26', 'PASSING_INT': '12', 'PASSING_SACKS': '44', 'RUSHING_ATT': '82', 'RUSHING_YDS': '413', 'RUSHING_TD': '7', 'MISC_FL': '3', 'MISC_G': '15', 'MISC_FPTS': '333.0', ',MISC_FPTS/G': '22.2', 'MISC_OWN': "99.3%'"}
+
+2018
+{'Rank': "'120", 'Player': 'Tua Tagovailoa ', 'Team': 'MIA', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "18.7%'"}
+
+2019
+{'Rank': "'92", 'Player': 'Tua Tagovailoa ', 'Team': 'MIA', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "18.7%'"}
+
+2018
+{'Rank': "'3", 'Player': 'Ben Roethlisberger ', 'Team': 'PIT', 'PASSING_CMP': '452', 'PASSING_ATT': '675', 'PASSING_PCT': '67.0', 'PASSING_YDS': '5129', 'PASSING_Y/A': '7.6', 'PASSING_TD': '34', 'PASSING_INT': '16', 'PASSING_SACKS': '24', 'RUSHING_ATT': '31', 'RUSHING_YDS': '98', 'RUSHING_TD': '3', 'MISC_FL': '2', 'MISC_G': '16', 'MISC_FPTS': '342.0', ',MISC_FPTS/G': '21.4', 'MISC_OWN': "63.7%'"}
+
+2019
+{'Rank': "'53", 'Player': 'Ben Roethlisberger ', 'Team': 'PIT', 'PASSING_CMP': '35', 'PASSING_ATT': '62', 'PASSING_PCT': '56.5', 'PASSING_YDS': '351', 'PASSING_Y/A': '5.7', 'PASSING_TD': '0', 'PASSING_INT': '1', 'PASSING_SACKS': '2', 'RUSHING_ATT': '1', 'RUSHING_YDS': '7', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '2', 'MISC_FPTS': '13.7', ',MISC_FPTS/G': '6.9', 'MISC_OWN': "63.7%'"}
+
+2018
+{'Rank': "'18", 'Player': 'Derek Carr ', 'Team': 'LV', 'PASSING_CMP': '381', 'PASSING_ATT': '553', 'PASSING_PCT': '68.9', 'PASSING_YDS': '4049', 'PASSING_Y/A': '7.3', 'PASSING_TD': '19', 'PASSING_INT': '10', 'PASSING_SACKS': '51', 'RUSHING_ATT': '24', 'RUSHING_YDS': '47', 'RUSHING_TD': '1', 'MISC_FL': '7', 'MISC_G': '16', 'MISC_FPTS': '216.8', ',MISC_FPTS/G': '13.6', 'MISC_OWN': "26.0%'"}
+
+2019
+{'Rank': "'17", 'Player': 'Derek Carr ', 'Team': 'LV', 'PASSING_CMP': '361', 'PASSING_ATT': '513', 'PASSING_PCT': '70.4', 'PASSING_YDS': '4054', 'PASSING_Y/A': '7.9', 'PASSING_TD': '21', 'PASSING_INT': '8', 'PASSING_SACKS': '29', 'RUSHING_ATT': '27', 'RUSHING_YDS': '82', 'RUSHING_TD': '2', 'MISC_FL': '3', 'MISC_G': '16', 'MISC_FPTS': '252.5', ',MISC_FPTS/G': '15.8', 'MISC_OWN': "26.0%'"}
+
+2018
+{'Rank': "'28", 'Player': 'Ryan Fitzpatrick ', 'Team': 'MIA', 'PASSING_CMP': '164', 'PASSING_ATT': '246', 'PASSING_PCT': '66.7', 'PASSING_YDS': '2366', 'PASSING_Y/A': '9.6', 'PASSING_TD': '17', 'PASSING_INT': '12', 'PASSING_SACKS': '14', 'RUSHING_ATT': '36', 'RUSHING_YDS': '152', 'RUSHING_TD': '2', 'MISC_FL': '1', 'MISC_G': '8', 'MISC_FPTS': '165.8', ',MISC_FPTS/G': '20.7', 'MISC_OWN': "10.0%'"}
+
+2019
+{'Rank': "'16", 'Player': 'Ryan Fitzpatrick ', 'Team': 'MIA', 'PASSING_CMP': '311', 'PASSING_ATT': '502', 'PASSING_PCT': '62.0', 'PASSING_YDS': '3529', 'PASSING_Y/A': '7.0', 'PASSING_TD': '20', 'PASSING_INT': '13', 'PASSING_SACKS': '40', 'RUSHING_ATT': '54', 'RUSHING_YDS': '243', 'RUSHING_TD': '4', 'MISC_FL': '2', 'MISC_G': '15', 'MISC_FPTS': '254.7', ',MISC_FPTS/G': '17.0', 'MISC_OWN': "10.0%'"}
+
+2018
+{'Rank': "'13", 'Player': 'Cam Newton ', 'Team': 'FA', 'PASSING_CMP': '320', 'PASSING_ATT': '471', 'PASSING_PCT': '67.9', 'PASSING_YDS': '3395', 'PASSING_Y/A': '7.2', 'PASSING_TD': '24', 'PASSING_INT': '13', 'PASSING_SACKS': '29', 'RUSHING_ATT': '101', 'RUSHING_YDS': '488', 'RUSHING_TD': '4', 'MISC_FL': '0', 'MISC_G': '14', 'MISC_FPTS': '282.6', ',MISC_FPTS/G': '20.2', 'MISC_OWN': "14.1%'"}
+
+2019
+{'Rank': "'52", 'Player': 'Cam Newton ', 'Team': 'FA', 'PASSING_CMP': '50', 'PASSING_ATT': '89', 'PASSING_PCT': '56.2', 'PASSING_YDS': '572', 'PASSING_Y/A': '6.4', 'PASSING_TD': '0', 'PASSING_INT': '1', 'PASSING_SACKS': '6', 'RUSHING_ATT': '5', 'RUSHING_YDS': '-2', 'RUSHING_TD': '0', 'MISC_FL': '2', 'MISC_G': '2', 'MISC_FPTS': '17.7', ',MISC_FPTS/G': '8.9', 'MISC_OWN': "14.1%'"}
+
+2018
+{'Rank': "'108", 'Player': 'Daniel Jones ', 'Team': 'NYG', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "67.0%'"}
+
+2019
+{'Rank': "'23", 'Player': 'Daniel Jones ', 'Team': 'NYG', 'PASSING_CMP': '284', 'PASSING_ATT': '459', 'PASSING_PCT': '61.9', 'PASSING_YDS': '3027', 'PASSING_Y/A': '6.6', 'PASSING_TD': '24', 'PASSING_INT': '12', 'PASSING_SACKS': '38', 'RUSHING_ATT': '45', 'RUSHING_YDS': '279', 'RUSHING_TD': '2', 'MISC_FL': '11', 'MISC_G': '13', 'MISC_FPTS': '226.9', ',MISC_FPTS/G': '17.5', 'MISC_OWN': "67.0%'"}
+
+2018
+{'Rank': "'22", 'Player': 'Jameis Winston ', 'Team': 'NO', 'PASSING_CMP': '244', 'PASSING_ATT': '378', 'PASSING_PCT': '64.6', 'PASSING_YDS': '2992', 'PASSING_Y/A': '7.9', 'PASSING_TD': '19', 'PASSING_INT': '14', 'PASSING_SACKS': '27', 'RUSHING_ATT': '49', 'RUSHING_YDS': '281', 'RUSHING_TD': '1', 'MISC_FL': '3', 'MISC_G': '11', 'MISC_FPTS': '196.0', ',MISC_FPTS/G': '17.8', 'MISC_OWN': "9.4%'"}
+
+2019
+{'Rank': "'3", 'Player': 'Jameis Winston ', 'Team': 'NO', 'PASSING_CMP': '380', 'PASSING_ATT': '626', 'PASSING_PCT': '60.7', 'PASSING_YDS': '5109', 'PASSING_Y/A': '8.2', 'PASSING_TD': '33', 'PASSING_INT': '30', 'PASSING_SACKS': '47', 'RUSHING_ATT': '59', 'RUSHING_YDS': '250', 'RUSHING_TD': '1', 'MISC_FL': '5', 'MISC_G': '16', 'MISC_FPTS': '335.2', ',MISC_FPTS/G': '21.0', 'MISC_OWN': "9.4%'"}
+
+2018
+{'Rank': "'27", 'Player': 'Sam Darnold ', 'Team': 'NYJ', 'PASSING_CMP': '239', 'PASSING_ATT': '414', 'PASSING_PCT': '57.7', 'PASSING_YDS': '2865', 'PASSING_Y/A': '6.9', 'PASSING_TD': '17', 'PASSING_INT': '15', 'PASSING_SACKS': '30', 'RUSHING_ATT': '44', 'RUSHING_YDS': '138', 'RUSHING_TD': '1', 'MISC_FL': '2', 'MISC_G': '13', 'MISC_FPTS': '168.4', ',MISC_FPTS/G': '13.0', 'MISC_OWN': "31.5%'"}
+
+2019
+{'Rank': "'27", 'Player': 'Sam Darnold ', 'Team': 'NYJ', 'PASSING_CMP': '273', 'PASSING_ATT': '441', 'PASSING_PCT': '61.9', 'PASSING_YDS': '3024', 'PASSING_Y/A': '6.9', 'PASSING_TD': '19', 'PASSING_INT': '13', 'PASSING_SACKS': '33', 'RUSHING_ATT': '33', 'RUSHING_YDS': '62', 'RUSHING_TD': '2', 'MISC_FL': '3', 'MISC_G': '13', 'MISC_FPTS': '202.1', ',MISC_FPTS/G': '15.5', 'MISC_OWN': "31.5%'"}
+
+2018
+{'Rank': "'43", 'Player': 'Taysom Hill ', 'Team': 'NO', 'PASSING_CMP': '3', 'PASSING_ATT': '7', 'PASSING_PCT': '42.9', 'PASSING_YDS': '64', 'PASSING_Y/A': '9.1', 'PASSING_TD': '0', 'PASSING_INT': '1', 'PASSING_SACKS': '1', 'RUSHING_ATT': '37', 'RUSHING_YDS': '196', 'RUSHING_TD': '2', 'MISC_FL': '1', 'MISC_G': '16', 'MISC_FPTS': '33.6', ',MISC_FPTS/G': '2.1', 'MISC_OWN': "5.1%'"}
+
+2019
+{'Rank': "'32", 'Player': 'Taysom Hill ', 'Team': 'NO', 'PASSING_CMP': '3', 'PASSING_ATT': '6', 'PASSING_PCT': '50.0', 'PASSING_YDS': '55', 'PASSING_Y/A': '9.2', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '1', 'RUSHING_ATT': '27', 'RUSHING_YDS': '156', 'RUSHING_TD': '1', 'MISC_FL': '0', 'MISC_G': '16', 'MISC_FPTS': '102.2', ',MISC_FPTS/G': '6.4', 'MISC_OWN': "5.1%'"}
+
+2018
+{'Rank': "'7", 'Player': 'Jared Goff ', 'Team': 'LAR', 'PASSING_CMP': '364', 'PASSING_ATT': '561', 'PASSING_PCT': '64.9', 'PASSING_YDS': '4688', 'PASSING_Y/A': '8.4', 'PASSING_TD': '32', 'PASSING_INT': '12', 'PASSING_SACKS': '33', 'RUSHING_ATT': '43', 'RUSHING_YDS': '108', 'RUSHING_TD': '2', 'MISC_FL': '5', 'MISC_G': '16', 'MISC_FPTS': '310.3', ',MISC_FPTS/G': '19.4', 'MISC_OWN': "55.1%'"}
+
+2019
+{'Rank': "'13", 'Player': 'Jared Goff ', 'Team': 'LAR', 'PASSING_CMP': '394', 'PASSING_ATT': '626', 'PASSING_PCT': '62.9', 'PASSING_YDS': '4638', 'PASSING_Y/A': '7.4', 'PASSING_TD': '22', 'PASSING_INT': '16', 'PASSING_SACKS': '22', 'RUSHING_ATT': '33', 'RUSHING_YDS': '40', 'RUSHING_TD': '2', 'MISC_FL': '5', 'MISC_G': '16', 'MISC_FPTS': '263.5', ',MISC_FPTS/G': '16.5', 'MISC_OWN': "55.1%'"}
+
+2018
+{'Rank': "'23", 'Player': 'Carson Wentz ', 'Team': 'PHI', 'PASSING_CMP': '279', 'PASSING_ATT': '401', 'PASSING_PCT': '69.6', 'PASSING_YDS': '3074', 'PASSING_Y/A': '7.7', 'PASSING_TD': '21', 'PASSING_INT': '7', 'PASSING_SACKS': '31', 'RUSHING_ATT': '34', 'RUSHING_YDS': '93', 'RUSHING_TD': '0', 'MISC_FL': '6', 'MISC_G': '11', 'MISC_FPTS': '193.4', ',MISC_FPTS/G': '17.6', 'MISC_OWN': "91.8%'"}
+
+2019
+{'Rank': "'9", 'Player': 'Carson Wentz ', 'Team': 'PHI', 'PASSING_CMP': '388', 'PASSING_ATT': '607', 'PASSING_PCT': '63.9', 'PASSING_YDS': '4039', 'PASSING_Y/A': '6.7', 'PASSING_TD': '27', 'PASSING_INT': '7', 'PASSING_SACKS': '37', 'RUSHING_ATT': '62', 'RUSHING_YDS': '243', 'RUSHING_TD': '1', 'MISC_FL': '7', 'MISC_G': '16', 'MISC_FPTS': '282.9', ',MISC_FPTS/G': '17.7', 'MISC_OWN': "91.8%'"}
+
+2018
+{'Rank': "'40", 'Player': 'Jimmy Garoppolo ', 'Team': 'SF', 'PASSING_CMP': '53', 'PASSING_ATT': '89', 'PASSING_PCT': '59.6', 'PASSING_YDS': '718', 'PASSING_Y/A': '8.1', 'PASSING_TD': '5', 'PASSING_INT': '3', 'PASSING_SACKS': '13', 'RUSHING_ATT': '8', 'RUSHING_YDS': '33', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '3', 'MISC_FPTS': '47.9', ',MISC_FPTS/G': '16.0', 'MISC_OWN': "52.1%'"}
+
+2019
+{'Rank': "'14", 'Player': 'Jimmy Garoppolo ', 'Team': 'SF', 'PASSING_CMP': '329', 'PASSING_ATT': '476', 'PASSING_PCT': '69.1', 'PASSING_YDS': '3978', 'PASSING_Y/A': '8.4', 'PASSING_TD': '27', 'PASSING_INT': '13', 'PASSING_SACKS': '36', 'RUSHING_ATT': '46', 'RUSHING_YDS': '62', 'RUSHING_TD': '1', 'MISC_FL': '5', 'MISC_G': '16', 'MISC_FPTS': '260.2', ',MISC_FPTS/G': '16.3', 'MISC_OWN': "52.1%'"}
+
+2018
+{'Rank': "'102", 'Player': 'Drew Lock ', 'Team': 'DEN', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "38.9%'"}
+
+2019
+{'Rank': "'37", 'Player': 'Drew Lock ', 'Team': 'DEN', 'PASSING_CMP': '100', 'PASSING_ATT': '156', 'PASSING_PCT': '64.1', 'PASSING_YDS': '1020', 'PASSING_Y/A': '6.5', 'PASSING_TD': '7', 'PASSING_INT': '3', 'PASSING_SACKS': '5', 'RUSHING_ATT': '18', 'RUSHING_YDS': '72', 'RUSHING_TD': '0', 'MISC_FL': '1', 'MISC_G': '5', 'MISC_FPTS': '71.1', ',MISC_FPTS/G': '14.2', 'MISC_OWN': "38.9%'"}
+
+2017
+{'Rank': "'176", 'Player': 'Teddy Bridgewater ', 'Team': 'CAR', 'PASSING_CMP': '0', 'PASSING_ATT': '2', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '1', 'PASSING_SACKS': '0', 'RUSHING_ATT': '3', 'RUSHING_YDS': '-3', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '1', 'MISC_FPTS': '-2.3', ',MISC_FPTS/G': '-2.3', 'MISC_OWN': "31.6%'"}
+
+2018
+{'Rank': "'54", 'Player': 'Teddy Bridgewater ', 'Team': 'CAR', 'PASSING_CMP': '14', 'PASSING_ATT': '23', 'PASSING_PCT': '60.9', 'PASSING_YDS': '118', 'PASSING_Y/A': '5.1', 'PASSING_TD': '1', 'PASSING_INT': '1', 'PASSING_SACKS': '2', 'RUSHING_ATT': '11', 'RUSHING_YDS': '5', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '5', 'MISC_FPTS': '7.2', ',MISC_FPTS/G': '1.4', 'MISC_OWN': "31.6%'"}
+
+2019
+{'Rank': "'33", 'Player': 'Teddy Bridgewater ', 'Team': 'CAR', 'PASSING_CMP': '133', 'PASSING_ATT': '196', 'PASSING_PCT': '67.9', 'PASSING_YDS': '1384', 'PASSING_Y/A': '7.1', 'PASSING_TD': '9', 'PASSING_INT': '2', 'PASSING_SACKS': '12', 'RUSHING_ATT': '28', 'RUSHING_YDS': '31', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '10', 'MISC_FPTS': '92.5', ',MISC_FPTS/G': '9.3', 'MISC_OWN': "31.6%'"}
+
+2018
+{'Rank': "'25", 'Player': 'Andy Dalton ', 'Team': 'DAL', 'PASSING_CMP': '226', 'PASSING_ATT': '365', 'PASSING_PCT': '61.9', 'PASSING_YDS': '2566', 'PASSING_Y/A': '7.0', 'PASSING_TD': '21', 'PASSING_INT': '11', 'PASSING_SACKS': '21', 'RUSHING_ATT': '16', 'RUSHING_YDS': '99', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '11', 'MISC_FPTS': '174.5', ',MISC_FPTS/G': '15.9', 'MISC_OWN': "2.8%'"}
+
+2019
+{'Rank': "'25", 'Player': 'Andy Dalton ', 'Team': 'DAL', 'PASSING_CMP': '314', 'PASSING_ATT': '528', 'PASSING_PCT': '59.5', 'PASSING_YDS': '3494', 'PASSING_Y/A': '6.6', 'PASSING_TD': '16', 'PASSING_INT': '14', 'PASSING_SACKS': '37', 'RUSHING_ATT': '32', 'RUSHING_YDS': '73', 'RUSHING_TD': '4', 'MISC_FL': '4', 'MISC_G': '13', 'MISC_FPTS': '217.5', ',MISC_FPTS/G': '16.7', 'MISC_OWN': "2.8%'"}
+
+2018
+{'Rank': "'112", 'Player': 'Trace McSorley ', 'Team': 'BAL', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "0.1%'"}
+
+2019
+{'Rank': "'64", 'Player': 'Trace McSorley ', 'Team': 'BAL', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '1', 'RUSHING_YDS': '1', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '1', 'MISC_FPTS': '0.1', ',MISC_FPTS/G': '0.1', 'MISC_OWN': "0.1%'"}
+
+2018
+{'Rank': "'117", 'Player': 'Jordan Love ', 'Team': 'GB', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "2.5%'"}
+
+2019
+{'Rank': "'88", 'Player': 'Jordan Love ', 'Team': 'GB', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "2.5%'"}
+
+2018
+{'Rank': "'41", 'Player': 'Tyrod Taylor ', 'Team': 'LAC', 'PASSING_CMP': '42', 'PASSING_ATT': '85', 'PASSING_PCT': '49.4', 'PASSING_YDS': '473', 'PASSING_Y/A': '5.6', 'PASSING_TD': '2', 'PASSING_INT': '2', 'PASSING_SACKS': '13', 'RUSHING_ATT': '16', 'RUSHING_YDS': '125', 'RUSHING_TD': '1', 'MISC_FL': '0', 'MISC_G': '4', 'MISC_FPTS': '41.4', ',MISC_FPTS/G': '10.4', 'MISC_OWN': "7.5%'"}
+
+2019
+{'Rank': "'57", 'Player': 'Tyrod Taylor ', 'Team': 'LAC', 'PASSING_CMP': '4', 'PASSING_ATT': '6', 'PASSING_PCT': '66.7', 'PASSING_YDS': '33', 'PASSING_Y/A': '5.5', 'PASSING_TD': '1', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '10', 'RUSHING_YDS': '7', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '8', 'MISC_FPTS': '6.0', ',MISC_FPTS/G': '0.8', 'MISC_OWN': "7.5%'"}
+
+2018
+{'Rank': "'119", 'Player': 'Jacob Eason ', 'Team': 'IND', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "1.5%'"}
+
+2019
+{'Rank': "'90", 'Player': 'Jacob Eason ', 'Team': 'IND', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '0', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "1.5%'"}
+
+2018
+{'Rank': "'61", 'Player': 'Chad Henne ', 'Team': 'KC', 'PASSING_CMP': '2', 'PASSING_ATT': '3', 'PASSING_PCT': '66.7', 'PASSING_YDS': '29', 'PASSING_Y/A': '9.7', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '1', 'RUSHING_YDS': '3', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '1', 'MISC_FPTS': '1.5', ',MISC_FPTS/G': '1.5', 'MISC_OWN': "0.1%'"}
+
+2019
+{'Rank': "'135", 'Player': 'Chad Henne ', 'Team': 'KC', 'PASSING_CMP': '0', 'PASSING_ATT': '0', 'PASSING_PCT': '0.0', 'PASSING_YDS': '0', 'PASSING_Y/A': '0.0', 'PASSING_TD': '0', 'PASSING_INT': '0', 'PASSING_SACKS': '0', 'RUSHING_ATT': '0', 'RUSHING_YDS': '0', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '1', 'MISC_FPTS': '0.0', ',MISC_FPTS/G': '0.0', 'MISC_OWN': "0.1%'"}
+
+2018
+{'Rank': "'24", 'Player': 'Marcus Mariota ', 'Team': 'LV', 'PASSING_CMP': '228', 'PASSING_ATT': '331', 'PASSING_PCT': '68.9', 'PASSING_YDS': '2528', 'PASSING_Y/A': '7.6', 'PASSING_TD': '11', 'PASSING_INT': '8', 'PASSING_SACKS': '42', 'RUSHING_ATT': '64', 'RUSHING_YDS': '357', 'RUSHING_TD': '2', 'MISC_FL': '2', 'MISC_G': '14', 'MISC_FPTS': '176.0', ',MISC_FPTS/G': '12.6', 'MISC_OWN': "2.3%'"}
+
+2019
+{'Rank': "'35", 'Player': 'Marcus Mariota ', 'Team': 'LV', 'PASSING_CMP': '95', 'PASSING_ATT': '160', 'PASSING_PCT': '59.4', 'PASSING_YDS': '1203', 'PASSING_Y/A': '7.5', 'PASSING_TD': '7', 'PASSING_INT': '2', 'PASSING_SACKS': '25', 'RUSHING_ATT': '24', 'RUSHING_YDS': '129', 'RUSHING_TD': '0', 'MISC_FL': '0', 'MISC_G': '7', 'MISC_FPTS': '87.1', ',MISC_FPTS/G': '12.4', 'MISC_OWN': "2.3%'"}
+
+ * Serving Flask app 'adpApp' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
